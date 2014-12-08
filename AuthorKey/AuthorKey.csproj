@@ -199,6 +199,7 @@
     <EmbeddedResource Include="UserFrom\UserWriting.resx">
       <DependentUpon>UserWriting.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="document\软件基础功能开发简要说明文档.doc" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
